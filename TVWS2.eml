@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/TVWS2"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/resources"/>
+	</contentEntry>
+	<lib name="GlassFish 4.1.2" scope="PROVIDED"/>
+	<levels>
+		<level name="GlassFish 4.1.2" value="application_server_libraries"/>
+		<level name="com.hubspot.jinjava:jinjava:2.1.16" value="project"/>
+	</levels>
+</component>
